@@ -37,7 +37,7 @@ function ForgotPassword() {
                     <div className="Nav">
                         <div className="flex items-center justify-between px-4 py-8">
                             <Link to="/">
-                                <h1 className="text-lg text-primary-300 QurovaDEMO">Tickverse</h1>
+                                <h1 className="text-lg text-primary-300 QurovaDEMO">Tixwav</h1>
                             </Link>
                             <div className="flex items-center">
                                 <Location
